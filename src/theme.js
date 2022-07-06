@@ -1,5 +1,3 @@
-
-
 export const theme = {
 	colors: {
 		black: "#000",
@@ -25,11 +23,13 @@ export const theme = {
 	},
 	fontWeights: {
 		normal: 400,
+
 		bold: 700,
 	},
 	borders: {
 		none: "none",
 		normal: "1px solid",
+		button: "3px solid",
 	},
 	radii: {
 		none: "0",
